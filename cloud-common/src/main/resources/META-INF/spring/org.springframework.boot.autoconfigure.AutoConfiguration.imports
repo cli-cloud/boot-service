@@ -1,0 +1,4 @@
+com.cloud.common.config.MyBatisConfig
+com.cloud.common.config.MvcConfig
+com.cloud.common.config.MqConfig
+com.cloud.common.config.JsonConfig
